@@ -1,0 +1,1 @@
+export const baseUrl='https://academy-training.appssquare.com/api/'
